@@ -8,7 +8,7 @@ Florian is a JavaScript Developer and Teacher with a passion for building funny 
 
 * 🌍  I'm based in France
 * ✉️  You can contact me at [business@kynstudio.org](mailto:business@kynstudio.org)
-* 🚀  I'm currently working on [Mind Toy](http://https://github.com/floriankyn/MindToy-Discord)
+* 🚀  I'm currently working on [Mind Toy](https://github.com/floriankyn/MindToy-Discord-Bot)
 * 🧠  I'm learning React.js
 
 <a href="https://www.github.com/floriankyn" target="_blank" rel="noreferrer"><img
