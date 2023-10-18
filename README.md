@@ -4,10 +4,10 @@ Hi 👋 My name is Florian Lepage
 Developer. Teacher. Creative.
 -----------------------------
 
-Florian is a JavaScript Developer and Teacher with a passion for building funny or helpful apps through content. He currently is a Self-Employed, Working as a freelancer for 4 years. Creative, he has many projects behind the scene.
+Florian is a JavaScript Developer and Teacher with a passion for building funny or helpful apps through content. He currently is a Self-Employed, Working as a freelancer for 5 years. Creative, he has many projects behind the scene.
 
 * 🌍  I'm based in France
-* ✉️  You can contact me at [business@kynstudio.org](mailto:business@kynstudio.org)
+* ✉️  You can contact me at [business@kynstudio.org](mailto:business@kynstudio.com)
 * 🚀  I'm currently working on [Mind Toy](https://github.com/floriankyn/MindToy-Discord-Bot)
 * 🧠  I'm learning React.js
 
