@@ -9,7 +9,6 @@ Florian is a JavaScript Developer and Teacher with a passion for building funny 
 * 🌍  I'm based in France
 * ✉️  You can contact me at [business@kynstudio.com](mailto:business@kynstudio.com)
 * 🚀  I'm currently working on Datagate
-* 🧠  I'm learning React.js
 
 <a href="https://www.github.com/floriankyn" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/floriankyn?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/florian_kyn" target="_blank" rel="noreferrer"><img
