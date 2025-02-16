@@ -7,7 +7,7 @@ Developer. Teacher. Creative.
 Florian is a JavaScript Developer and Teacher with a passion for building funny or helpful apps through content. He currently is a Self-Employed, Working as a freelancer for 5 years. Creative, he has many projects behind the scene.
 
 * 🌍  I'm based in France
-* ✉️  You can contact me at [business@kynstudio.com](mailto:business@kynstudio.com)
+* ✉️  You can contact me at [business@kynstudio.com](mailto:florian@kynstudio.com)
 * 🚀  I'm currently working on Datagate
 
 <a href="https://www.github.com/floriankyn" target="_blank" rel="noreferrer"><img
