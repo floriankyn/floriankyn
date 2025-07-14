@@ -4,11 +4,11 @@ Hi 👋 My name is Florian Lepage
 Developer. Teacher. Creative.
 -----------------------------
 
-Florian is a JavaScript Developer and Teacher with a passion for building funny or helpful apps through content. He currently is a Self-Employed, Working as a freelancer for 5 years. Creative, he has many projects behind the scene.
+Florian is a JavaScript Developer and Teacher with a passion for building funny or helpful apps through content. He currently is a Self-Employed, Working as a freelancer for 6 years. Creative, he has many projects behind the scene.
 
 * 🌍  I'm based in France
-* ✉️  You can contact me at [business@kynstudio.com](mailto:florian@kynstudio.com)
-* 🚀  I'm currently working on Datagate
+* ✉️  You can contact me at [business@kynstudio.com](mailto:contact@florianlepage.com)
+* 🚀  I'm currently working on a check vehicule app.
 
 <a href="https://www.github.com/floriankyn" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/floriankyn?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/florian_kyn" target="_blank" rel="noreferrer"><img
@@ -36,7 +36,7 @@ src="https://img.shields.io/twitter/follow/florian_kyn?logo=twitter&style=for-th
 
 ### Socials
 
-<p align="left"> <a href="https://www.dev.to/floriankyn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://discord.gg/ZwsyKz2BuC" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/floriankyn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/florian_kyn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/florian-lepage" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/13493116/florian-lepage" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/florian_kyn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.dev.to/floriankyn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://discord.gg/ZwsyKz2BuC" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/floriankyn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/florian_lpg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/florian-lepage" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/13493116/florian-lepage" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/florian_kyn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
