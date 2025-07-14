@@ -4,10 +4,10 @@ Hi 👋 My name is Florian Lepage
 Developer. Teacher. Creative.
 -----------------------------
 
-Florian is a JavaScript Developer and Teacher with a passion for building funny or helpful apps through content. He currently is a Self-Employed, Working as a freelancer for 6 years. Creative, he has many projects behind the scene.
+Full Stack Software Engineer with a strong focus on React, Next.js, and AI-driven automation. Proven track record in building scalable web applications, real-time data pipelines, and intelligent systems that optimize performance and decision-making. Experienced in cloud-native architectures using AWS, Google Cloud, and Docker, with a passion for turning complex challenges into efficient, production-ready solutions. Fluent in English and French.
 
 * 🌍  I'm based in France
-* ✉️  You can contact me at [business@kynstudio.com](mailto:contact@florianlepage.com)
+* ✉️  You can contact me at [contact@florianlepage.com](mailto:contact@florianlepage.com)
 * 🚀  I'm currently working on a check vehicule app.
 
 <a href="https://www.github.com/floriankyn" target="_blank" rel="noreferrer"><img
