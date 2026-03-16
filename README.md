@@ -1,49 +1,122 @@
-Hi 👋 My name is Florian Lepage
-===============================
+# Hi 👋 I'm Florian Lepage
 
-Developer. Teacher. Creative.
------------------------------
+**Full-Stack Software Engineer building AI platforms, data systems, and
+operational software.**
 
-Full Stack Software Engineer with a strong focus on React, Next.js, and AI-driven automation. Proven track record in building scalable web applications, real-time data pipelines, and intelligent systems that optimize performance and decision-making. Experienced in cloud-native architectures using AWS, Google Cloud, and Docker, with a passion for turning complex challenges into efficient, production-ready solutions. Fluent in English and French.
+I design and develop scalable applications that transform complex
+operational data into practical tools used daily by real teams. My work
+spans backend systems, real-time dashboards, ETL pipelines, and DevOps
+infrastructure.
 
-* 🌍  I'm based in France
-* ✉️  You can contact me at [contact@florianlepage.com](mailto:contact@florianlepage.com)
-* 🚀  I'm currently working on a check vehicule app.
+Currently working in **R&D at Groupe Alainé**, a European logistics and
+transport group (1500+ employees), where I build internal platforms used
+across multiple subsidiaries.
 
-<a href="https://www.github.com/floriankyn" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/floriankyn?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/florian_kyn" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/florian_kyn?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+I enjoy building systems that combine **software engineering, data
+engineering, and AI** to improve decision-making and operational
+efficiency.
 
-### Skills
+------------------------------------------------------------------------
 
+## 🚀 What I Work On
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
-<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
-<a href="https://docs.alchemy.com/alchemy/documentation/alchemy-web3" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/alchemy-colored.svg" width="36" height="36" alt="Alchemy" /></a>
-<a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
-<a href="https://www.onflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flow-colored.svg" width="36" height="36" alt="Flow" /></a>
-</p>
+-   **Full-stack platforms** using modern TypeScript / React
+    architectures\
+-   **Operational dashboards** with real-time data and analytics\
+-   **ETL pipelines** processing large logistics datasets\
+-   **AI-powered internal tools** to assist employees and automate
+    workflows\
+-   **DevOps infrastructure** for multi-server deployments and CI/CD
 
+------------------------------------------------------------------------
 
-### Socials
+## 🧠 Tech Stack
 
-<p align="left"> <a href="https://www.dev.to/floriankyn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://discord.gg/ZwsyKz2BuC" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/floriankyn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/florian_lpg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/florianlpg/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/13493116/florian-lepage" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/florian_kyn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+### Frontend
 
-### Badges
+-   React
+-   Next.js
+-   TypeScript
+-   TailwindCSS
+-   Shadcn UI
 
-<b>My GitHub Stats</b>
+### Backend
 
-<a href="http://www.github.com/floriankyn"><img src="https://github-readme-stats.vercel.app/api?username=floriankyn&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="floriankyn's GitHub stats" /></a>
+-   Node.js
+-   NestJS
+-   REST APIs
+-   WebSockets
 
-<a href="http://www.github.com/floriankyn"><img src="https://github-readme-streak-stats.herokuapp.com/?user=floriankyn&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+### Data & Infrastructure
 
-<a href="https://github.com/floriankyn" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=floriankyn&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+-   MySQL
+-   Trino
+-   Apache Iceberg
+-   Docker
+-   Jenkins
+-   Gitea
+-   Nginx
+
+### Cloud & AI
+
+-   Google Cloud
+-   LLM integrations
+-   Data pipelines & analytics
+
+------------------------------------------------------------------------
+
+## 📌 Selected Work
+
+### Internal Logistics Platforms
+
+Design and development of operational tools used by logistics and
+warehouse teams across multiple subsidiaries.
+
+Includes: - real-time operational dashboards - data processing
+pipelines - ETL systems for logistics analytics - internal APIs powering
+multiple applications
+
+### AI‑Powered Knowledge Platform
+
+Full-stack development of an AI platform that helps employees search and
+interact with internal company data.
+
+Technologies: - TypeScript - Prisma - Google Cloud - LLM integrations
+
+### Budget Manager (Side Project)
+
+Personal finance application with **AI-powered receipt scanning** using
+Google Cloud Vision and Gemini AI.
+
+Features: - automatic expense extraction - AI categorization - financial
+analytics dashboard
+
+------------------------------------------------------------------------
+
+## 🌍 About Me
+
+-   🇫🇷 Based in France\
+-   💻 5+ years building web applications\
+-   🧠 Interested in AI systems, data engineering, and scalable
+    architectures\
+-   🚀 Passionate about building products that solve real operational
+    problems
+
+------------------------------------------------------------------------
+
+## 📫 Contact
+
+-   Email: **contact@florianlepage.com**
+-   LinkedIn: https://linkedin.com/in/florianlpg
+-   GitHub: https://github.com/floriankyn
+
+------------------------------------------------------------------------
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=floriankyn&show_icons=true&theme=tokyonight)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=floriankyn&theme=tokyonight)
+
+![Top
+Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=floriankyn&layout=compact&theme=tokyonight)
